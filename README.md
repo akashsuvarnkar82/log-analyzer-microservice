@@ -1,3 +1,6 @@
+## 📺 Live Demo
+![Project Demo](./demo.gif)
+
 # Polyglot Security Log Analyzer
 
 A real-time anomaly detection system built with a microservices architecture using **Java (Spring Boot)** and **Python (FastAPI)**.
